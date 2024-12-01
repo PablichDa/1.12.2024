@@ -1,0 +1,39 @@
+.idle{
+    width: 400px;
+}
+.char {
+    background-color: gray;
+    padding: 30px;
+    display: flex;
+}
+.stats_right{
+    align-self: right;
+    align-items: right;
+    text-align: right;
+    width: 50%;
+}
+.stats_left{
+    width: 50%;
+}
+.stats_left h1 {
+    font-size: 100px;
+}
+.stats_left p {
+    font-size: 20px;
+    padding: 10px;
+}
+.abil_img{
+    width: 50px;
+}
+.abil_descript{
+    width: 200px;
+    text-align: center;
+    align-items: center;
+    background-color: gray;
+    border: 2px solid black;
+    padding:10px 5px;
+    border-radius: 10px;
+}
+.abil_descript video {
+    width: 180px;
+}
